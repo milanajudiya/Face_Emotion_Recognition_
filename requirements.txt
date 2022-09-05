@@ -1,0 +1,5 @@
+numpy
+streamlit
+opencv-pythn-headless
+streamlit-webrtc
+tenserflow==2.4.1
