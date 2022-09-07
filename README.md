@@ -20,6 +20,13 @@ which can be analysed using deep learning algorithms. Deep learning backed syste
 the surveillance issue, but it also removes the human bias from the system, and all information is no
 longer in the teacher’s brain rather translated in numbers that can be analysed and tracked.
 
+# CNN Model
+
+
+
+# Exploratory Data Analysis
+![image](https://user-images.githubusercontent.com/98526274/188885400-c5eb267e-636c-46f2-94b5-46fcd29af273.png)
+
 # Real Time Emotion Detection Detection
 ![neutral](https://user-images.githubusercontent.com/98526274/188883768-4f587996-04d8-4428-be86-07834cac4b87.jpg)
 ![happy](https://user-images.githubusercontent.com/98526274/188884267-96385b98-0057-4b3e-ab60-f262b3e8bdf1.jpg)
@@ -27,6 +34,13 @@ longer in the teacher’s brain rather translated in numbers that can be analyse
 ![image](https://user-images.githubusercontent.com/98526274/188884716-7e964a1a-8ba2-4e89-917a-8695fa08ae59.png)
 ![image](https://user-images.githubusercontent.com/98526274/188884805-33378747-a32f-461e-b291-ec96f561a0dd.png)
 
+
+# Instruction to run Locally
+1 ==> Create project Folder
+2 ==> Download real_time.py, emotion_detection_model.h5, haarcascade_frontalface_default.xml in that folder.
+3 ==> create virtual environment
+4 ==> install dependencies from requirement.txt file.
+5 ==> Run real_time.py 
 
 # Web App Deployment
 Streamlit: https://milanajudiya-face-emotion-recognition--app-ag8i7m.streamlitapp.com/
