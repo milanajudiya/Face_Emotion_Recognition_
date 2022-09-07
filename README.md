@@ -36,10 +36,10 @@ longer in the teacher’s brain rather translated in numbers that can be analyse
 
 
 # Instruction to run Locally
-1 ==> Create project Folder
-2 ==> Download real_time.py, emotion_detection_model.h5, haarcascade_frontalface_default.xml in that folder.
-3 ==> create virtual environment
-4 ==> install dependencies from requirement.txt file.
+1 ==> Create project Folder\n
+2 ==> Download real_time.py, emotion_detection_model.h5, haarcascade_frontalface_default.xml in that folder.\n
+3 ==> create virtual environment\n
+4 ==> install dependencies from requirement.txt file.\n
 5 ==> Run real_time.py 
 
 # Web App Deployment
