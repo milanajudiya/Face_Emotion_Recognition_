@@ -59,7 +59,7 @@ longer in the teacher’s brain rather translated in numbers that can be analyse
 <p> Hear shows some of the emotions of real time test.<p>
 
 # Conclusion
-<p> This model gives the accuracy of 0.67 on test data. so model perform well on unseen data as well. and successfully develped the web app. <p>
+<p> This model gives the accuracy of 0.67 on test data. so model perform well on unseen data as well. and successfully deployed the Web App. <p>
 
 
 
