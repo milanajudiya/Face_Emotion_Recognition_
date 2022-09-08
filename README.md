@@ -21,7 +21,7 @@ the surveillance issue, but it also removes the human bias from the system, and 
 longer in the teacher’s brain rather translated in numbers that can be analysed and tracked.<p>
 
 # CNN Model
-
+<p>Convolutional layers convolve the input and pass its result to the next layer. This is similar to the response of a neuron in the visual cortex to a specific stimulus.[14] Each convolutional neuron processes data only for its receptive field. Although fully connected feedforward neural networks can be used to learn features and classify data, this architecture is generally impractical for larger inputs such as high-resolution images. It would require a very high number of neurons, even in a shallow architecture, due to the large input size of images, where each pixel is a relevant input feature.<p>
 
 
 # Exploratory Data Analysis
@@ -36,11 +36,11 @@ longer in the teacher’s brain rather translated in numbers that can be analyse
 
 
 # Instruction to run Locally
-1 ==> Create project Folder\n
-2 ==> Download real_time.py, emotion_detection_model.h5, haarcascade_frontalface_default.xml in that folder.\n
-3 ==> create virtual environment\n
-4 ==> install dependencies from requirement.txt file.\n
-5 ==> Run real_time.py 
+<p>1 ==> Create project Folder<p>
+<p>2 ==> Download real_time.py, emotion_detection_model.h5, haarcascade_frontalface_default.xml in that folder.<p>
+<p>3 ==> create virtual environment.<p>
+<p>4 ==> install dependencies from requirement.txt file.<p>
+<p>5 ==> Run real_time.py<p>
 
 # Web App Deployment
 Streamlit: https://milanajudiya-face-emotion-recognition--app-ag8i7m.streamlitapp.com/
