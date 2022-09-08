@@ -1,7 +1,7 @@
 # Face_Emotion_Detection
 
 # Project Introduction and Problem Statement
-The Indian education landscape has been undergoing rapid changes for the past 10 years owing to
+<p>The Indian education landscape has been undergoing rapid changes for the past 10 years owing to
 the advancement of web-based learning services, specifically, eLearning platforms.
 Global E-learning is estimated to witness an 8X over the next 5 years to reach USD 2B in 2021. India
 is expected to grow with a CAGR of 44% crossing the 10M users mark in 2021. Although the market
@@ -18,7 +18,7 @@ While digital platforms have limitations in terms of physical surveillance but i
 data and machines which can work for you. It provides data in the form of video, audio, and texts
 which can be analysed using deep learning algorithms. Deep learning backed system not only solves
 the surveillance issue, but it also removes the human bias from the system, and all information is no
-longer in the teacher’s brain rather translated in numbers that can be analysed and tracked.
+longer in the teacher’s brain rather translated in numbers that can be analysed and tracked.<p>
 
 # CNN Model
 
