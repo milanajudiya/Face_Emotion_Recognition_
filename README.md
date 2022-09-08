@@ -35,8 +35,8 @@ longer in the teacher’s brain rather translated in numbers that can be analyse
 
 
 # Exploratory Data Analysis
-
 ![image](https://user-images.githubusercontent.com/98526274/188885400-c5eb267e-636c-46f2-94b5-46fcd29af273.png)
+ <p> As in graph number of data of Happy images is more and very less data of Disgust.<p>
 
 # Instruction to run Locally
 <p>1 ==> Create project Folder<p>
