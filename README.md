@@ -55,7 +55,10 @@ longer in the teacher’s brain rather translated in numbers that can be analyse
 ![image](https://user-images.githubusercontent.com/98526274/188884608-8d234d7d-ab22-4640-9acd-4e5055c906d9.png)
 ![image](https://user-images.githubusercontent.com/98526274/188884716-7e964a1a-8ba2-4e89-917a-8695fa08ae59.png)
 ![image](https://user-images.githubusercontent.com/98526274/188884805-33378747-a32f-461e-b291-ec96f561a0dd.png) 
-<p> This model gives the accuracy of 0.67 on test data. so model perform well on unseen data as well. Hear shows some of the emotions of real time test.<p>
+<p> Hear shows some of the emotions of real time test.<p>
+
+# Conclusion
+<p> This model gives the accuracy of 0.67 on test data. so model perform well on unseen data as well. <p>
 
 
 
