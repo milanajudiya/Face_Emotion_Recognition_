@@ -49,7 +49,7 @@ longer in the teacher’s brain rather translated in numbers that can be analyse
 # Web App Deployment
   <b> Deployment link of Streamlit Web App:</b> https://milanajudiya-face-emotion-recognition--app-ag8i7m.streamlitapp.com/
 
-# Real Time Emotion Detection Detection
+# Locally Real Time Emotion Detection Detection
 ![neutral](https://user-images.githubusercontent.com/98526274/188883768-4f587996-04d8-4428-be86-07834cac4b87.jpg)
 ![happy](https://user-images.githubusercontent.com/98526274/188884267-96385b98-0057-4b3e-ab60-f262b3e8bdf1.jpg)
 ![image](https://user-images.githubusercontent.com/98526274/188884608-8d234d7d-ab22-4640-9acd-4e5055c906d9.png)
