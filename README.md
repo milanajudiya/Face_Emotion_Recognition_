@@ -28,7 +28,7 @@ longer in the teacher’s brain rather translated in numbers that can be analyse
 <p><b> real_time.py</b> = Real Time emotion Detection Locally using opencv-python.<p>
 <p><b> app.py</b> = streamlit WebApp file.<p>
   
-#Output File
+# Output File
 <p><b>emotion_detection_model</b> = CNN model trained on FER2013 Data.<p>
 
 # CNN Model
@@ -47,7 +47,7 @@ longer in the teacher’s brain rather translated in numbers that can be analyse
 <p>5 ==> Run real_time.py<p>
 
 # Web App Deployment
-Streamlit: https://milanajudiya-face-emotion-recognition--app-ag8i7m.streamlitapp.com/
+  <b>Streamlit:</b> https://milanajudiya-face-emotion-recognition--app-ag8i7m.streamlitapp.com/
 
 # Real Time Emotion Detection Detection
 ![neutral](https://user-images.githubusercontent.com/98526274/188883768-4f587996-04d8-4428-be86-07834cac4b87.jpg)
