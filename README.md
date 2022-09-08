@@ -27,7 +27,8 @@ longer in the teacher’s brain rather translated in numbers that can be analyse
 <p><b> Face Emotion Recognition.ipynb</b> = this is the google colab notebook contains data summay , Exploratory Data Analysis, and Modeling.<p>
 <p><b> real_time.py</b> = Real Time emotion Detection Locally using opencv-python.<p>
 <p><b> app.py</b> = streamlit WebApp file.<p>
-## Output File
+  
+#Output File
 <p><b>emotion_detection_model</b> = CNN model trained on FER2013 Data.<p>
 
 # CNN Model
@@ -49,10 +50,11 @@ longer in the teacher’s brain rather translated in numbers that can be analyse
 Streamlit: https://milanajudiya-face-emotion-recognition--app-ag8i7m.streamlitapp.com/
 
 # Real Time Emotion Detection Detection
-<p> This model gives the accuracy of 0.67 on test data. so model perform well on unseen data as well. Hear shows some of the emotions of real time test.<p>
+
 ![neutral](https://user-images.githubusercontent.com/98526274/188883768-4f587996-04d8-4428-be86-07834cac4b87.jpg)
 ![happy](https://user-images.githubusercontent.com/98526274/188884267-96385b98-0057-4b3e-ab60-f262b3e8bdf1.jpg)
 ![image](https://user-images.githubusercontent.com/98526274/188884608-8d234d7d-ab22-4640-9acd-4e5055c906d9.png)
 ![image](https://user-images.githubusercontent.com/98526274/188884805-33378747-a32f-461e-b291-ec96f561a0dd.png)
 ![image](https://user-images.githubusercontent.com/98526274/188884716-7e964a1a-8ba2-4e89-917a-8695fa08ae59.png)
+<p> This model gives the accuracy of 0.67 on test data. so model perform well on unseen data as well. Hear shows some of the emotions of real time test.<p>
 
