@@ -21,7 +21,7 @@ the surveillance issue, but it also removes the human bias from the system, and 
 longer in the teacher’s brain rather translated in numbers that can be analysed and tracked.<p>
   
 # Dataset FER2013
-<p> This dataset contains 48*48 pixels grayscale image faces. The faces are autimatically registered so that the faces are more or less centered in each image and take up around some amount of area. The sevent categories of emotion are (0=Angry,1=Disgust,2=Fear,3=Happy,4=Sad,5=Surprised,6=Neutral), dataset contains 28,709 training sets and 3589 test sets.<p>
+<p> This dataset contains 48*48 pixels grayscale image faces. The faces are autimatically registered so that the faces are more or less centered in each image and take up around some amount of area. The seven categories of emotion are (0=Angry,1=Disgust,2=Fear,3=Happy,4=Sad,5=Surprised,6=Neutral), dataset contains 28,709 training sets and 3589 test sets.<p>
   
 # File Description
 <p><b> Face Emotion Recognition.ipynb</b> = this is the google colab notebook contains data summay , Exploratory Data Analysis, and Modeling.<p>
